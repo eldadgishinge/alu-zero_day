@@ -1,6 +1,10 @@
 #!/bin/bash
 
+
 echo"This School is so cool"
 
 echo"Best  school"
+update_script
+
+echo"Best School"
 update_script
